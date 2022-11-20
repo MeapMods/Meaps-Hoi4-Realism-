@@ -4,6 +4,9 @@ This is a mod I created to improve visuals, focus trees and available equipment.
 # How To Install
 
 [1] - Download the repository
+
 [2] - Run the EXE installer
+
 [3] - Wait for it to create the necessary changes to your Hoi4 file 
+
 [4] - Load up your game and it should be collected with your other mods.
